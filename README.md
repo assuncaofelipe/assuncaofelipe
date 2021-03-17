@@ -1,8 +1,10 @@
 ## Hi, I'm Felipe V. Assunção 👋
-<p align="center"> You can find me here: <p align="center">
-  <i class="fab fa-instagram"></i>
 
-<!---
-assuncaofelipe/assuncaofelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ You can find me here: 
+<!-- <p align="center"> You can find me here: <p align="center"> -->
+
+ <!-- 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/assuncao-felipe/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/diceloss/) -->
+
+### Programming Languages  :rocket:
