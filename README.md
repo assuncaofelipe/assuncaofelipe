@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe V. Assunção 👋
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capa.jpg" width="230">
 
 
 
