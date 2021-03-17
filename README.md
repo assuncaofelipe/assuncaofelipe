@@ -1,5 +1,6 @@
 ## Hi, I'm Felipe V. Assunção 👋
-You can find me here:
+<p align="center"> You can find me here: <p align="center">
+  <i class="fab fa-instagram"></i>
 
 <!---
 assuncaofelipe/assuncaofelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
