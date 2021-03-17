@@ -1,5 +1,9 @@
 ## Hi, I'm Felipe V. Assunção 👋
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+
+
  You can find me here: 
 <!-- <p align="center"> You can find me here: <p align="center"> -->
 
