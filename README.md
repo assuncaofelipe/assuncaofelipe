@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe V. Assunção 👋
 
-<img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa5.png" width="230">
+<img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa3.png" width="230">
 
 
 
