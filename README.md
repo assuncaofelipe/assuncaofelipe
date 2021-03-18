@@ -43,7 +43,9 @@
     <!-- SEGUNDA LINHA COM 4 COLUNAS -->
     <tr align="center">
         <td width="20%">
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+            <a href="https://www.sqlite.org/index.html">
+                <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+            </a>
         </td>
         <td width="20%">
             <a href="https://dev.mysql.com/doc/">
