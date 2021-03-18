@@ -32,7 +32,9 @@
             </a>
         </td>
         <td width="20%">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+            <a href="https://www.java.com/pt-BR/about/"
+               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+            </a>
         </td>
         <td width="20%">
             <a href="https://git-scm.com/docs/git/pt_BR">
