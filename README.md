@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Felipe V. Assunção, a developer from Brazil 
-- 🎓🤖 Student of Software Engineering at Federal University of Amazonas
+🎓🤖 Student of Software Engineering at Federal University of Amazonas
 
 <img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa5.png" width="230">
 
