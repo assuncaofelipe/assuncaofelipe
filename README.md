@@ -8,10 +8,10 @@
 <h3 align="center"> You can find me here 🔎</h3> 
 <p align="center"> <samp>
     <a href="https://www.linkedin.com/in/assuncao-felipe/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/diceloss/">
-      <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+        <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
 
