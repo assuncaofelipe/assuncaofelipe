@@ -1,7 +1,7 @@
 <h1 align="center">
     <samp> Hi 👋, I'm Felipe V. Assunção<br/>
 </h1>
-<p align="center"> I'm a Software Engineering Student, I develop native applications on android and websites with Django Framework </p>
+<p align="center"> I'm a Software Engineering Student, I develop backends in native applications on android and websites with Django Framework </p>
 
 <!-- <img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa3.png" width="270"> -->
 
