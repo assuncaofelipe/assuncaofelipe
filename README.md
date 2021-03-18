@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Felipe V. Assunção, a developer from Amazonas 
+## 👋 Hi, I'm Felipe V. Assunção, a developer from Brasil
 
 
 <img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa5.png" width="230">
