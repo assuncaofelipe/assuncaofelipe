@@ -27,13 +27,17 @@
             </a>
         </td>
         <td width="20%">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+            <a href="https://webstore.ansi.org/Standards/INCITS/INCITSISOIEC98992012"  target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+            </a>
         </td>
         <td width="20%">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
         </td>
         <td width="20%">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+            <a href="https://git-scm.com/docs/git/pt_BR">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+            </a>
         </td>
     </tr>
     <!-- SEGUNDA LINHA COM 4 COLUNAS -->
@@ -42,10 +46,14 @@
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
         </td>
         <td width="20%">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            <a href="https://dev.mysql.com/doc/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            </a>
         </td>
         <td width="20%">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+            <a href="https://developer.android.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+            </a>
         </td>
         <td width="20%">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
