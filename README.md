@@ -3,8 +3,7 @@
 </h1>
 I'm a Software Engineering Student, I develop native applications on android and create websites with Django Framework
 
-<img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa5.png" width="230">
-
+<img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa3.png" width="270">
 
 <h3 align="center"> You can find me here 🔎</h3> 
 <p align="center"> <samp>
