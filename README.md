@@ -1,4 +1,6 @@
-## Hi 👋, I'm Felipe V. Assunção, a developer from Brazil 
+<h1 align="center">
+    <samp> Hi 👋, I'm Felipe V. Assunção, a developer from Brazil <br/>
+</h1>
 I'm a Software Engineering Student, I develop native applications on android and create websites with Django Framework
 
 <img align='right' src="https://github.com/assuncaofelipe/assuncaofelipe/blob/main/images/capas/capa5.png" width="230">
