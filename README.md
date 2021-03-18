@@ -1,5 +1,5 @@
 <h1 align="center">
-    <samp> Hi 👋, I'm Felipe V. Assunção, a Jr software developer <br/>
+    <samp> Hi 👋, I'm Felipe V. Assunção<br/>
 </h1>
 <p align="center"> I'm a Software Engineering Student, I develop native applications on android and websites with Django Framework </p>
 
