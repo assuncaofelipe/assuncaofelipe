@@ -17,7 +17,7 @@
 
 <h3 align="center"> Languages and Tools: </h3>  
 <p align="center">
-  <img href="https://www.python.org/" target="_blank" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="28"/></a> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="28"/></a> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="28"/></a> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="28"/></a>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" height="28"/>
