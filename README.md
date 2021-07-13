@@ -46,11 +46,11 @@
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
                 </a>
             </td>
-            <td width="20%">
+            <!-- <td width="20%">
                 <a href="https://kotlinlang.org/">
-                    <img src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/Kotlin_Icon.png" alt="kotlin_image" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/Kotlin_Icon.png" alt="Kotlin_Icon" width="40" height="40"/>
                 </a>
-            </td>
+            </td> -->
         </tr>
  
 </table>
