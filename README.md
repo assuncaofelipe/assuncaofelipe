@@ -48,7 +48,7 @@
             </td>
             <td width="20%">
                 <a href="https://kotlinlang.org/">
-                    <img src="https://pt.wikipedia.org/wiki/Kotlin#/media/Ficheiro:Kotlin_logo.svg" alt="kotlin" width="40" height="40"/>
+                    <img src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/>
                 </a>
             </td>
         </tr>
