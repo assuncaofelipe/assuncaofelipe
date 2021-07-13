@@ -47,7 +47,7 @@
                 </a>
             </td>
         </tr>
-    <!-- SEGUNDA LINHA COM 4 COLUNAS -->
+    <!-- SEGUNDA LINHA COM 4 COLUNAS 
    <tr align="center">
             <td width="20%">
                 <a href="https://www.sqlite.org/index.html">
@@ -74,5 +74,5 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
                 </a>
             </td>
-        </tr>    
+        </tr>   --> 
 </table>
