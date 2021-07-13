@@ -16,13 +16,28 @@
 </p>
 
 <h3 align="center"> Languages and Tools: </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>  
+</p>
 
+    
+    
+    
 <!-- TABELA 4X4 -->
 <!-- PRIMEIRA LINHA COM 4 COLUNAS -->
-<table align="center" width="100%">
+<!--
+ <table align="center" width="100%">
         <tr align="center">
             <td width="20%">
-                <a href="https://www.python.org/"  target="_blank">
+                <a href="https://www.python.org/" target="_blank">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+                </a>
+            </td>
+            <td width="20%">
+                <a href="https://www.python.org/" target="_blank">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
                 </a>
             </td>
@@ -46,11 +61,6 @@
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
                 </a>
             </td>
-            <!-- <td width="20%">
-                <a href="https://kotlinlang.org/">
-                    <img src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/Kotlin_Icon.png" alt="Kotlin_Icon" width="40" height="40"/>
-                </a>
-            </td> -->
         </tr>
- 
 </table>
+ -->
