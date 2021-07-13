@@ -1,13 +1,13 @@
 <h1 align="center"> <samp> Hi 👋, I'm Felipe V. Assunção<br/> </h1>
     
-<p align="center">
+<p align="left">
     I'm a Software Engineering Student at the Institute of Exact Sciences and Technology - ICET / UFAM. I have the objective of being a backend developer in native mobile             applications, currently I am improving my hard skills in Java / Kotlin.
 </p>
 
-<img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="300">
+<img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360">
 
-<h3 align="center"> You can find me here 🔎</h3> 
-<p align="center"> <samp>
+<h3 align="left"> You can find me here 🔎</h3> 
+<p align="left"> <samp>
     <a href="https://www.linkedin.com/in/assuncao-felipe/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     </a>
@@ -16,8 +16,8 @@
     </a>
 </p>
 
-<h3 align="center"> Languages and Tools: </h3>  
-<p align="center">
+<h3 align="left"> Languages and Tools: </h3>  
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="30"/></a> 
   <img src="https://img.shields.io/badge/Java-E4405F?style=flat-square&logo=Java&logoColor=white" height="30"/></a> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="30"/></a>
