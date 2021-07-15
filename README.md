@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<h3 align="center"> Languages and Tools: </h3>  
+<h3 align="center"> Technologies: </h3>  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="30"/></a> 
   <img src="https://img.shields.io/badge/Java-E4405F?style=flat-square&logo=Java&logoColor=white" height="30"/></a> 
