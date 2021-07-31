@@ -1,7 +1,7 @@
 <h1 align="center"> <samp> Hi 👋, I'm Felipe V. Assunção<br/> </h1>
     
 <p align="center">
-    I'm a Software Engineering Student at the Institute of Exact Sciences and Technology - ICET / UFAM. I have the objective of being a backend developer in native mobile             applications, currently I am improving my hard skills in Kotlin / Java.
+    I'm a Software Engineering Student at the Institute of Exact Sciences and Technology - ICET / UFAM. I have the objective of being a backend developer in native mobile             applications, currently I am improving my hard skills in Kotlin/Java.
 </p>
 
 <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360">
