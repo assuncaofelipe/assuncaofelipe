@@ -1,20 +1,18 @@
+<!-- TITULO -->
 <h1 align="center"> <samp> Hi 👋, I'm Felipe<br/> </h1>
-    
-<p align="center">
-    I'm a Software Engineering Student at the Institute of Exact Sciences and Technology - ICET / UFAM. I have the objective of being a backend developer in native mobile applications, currently, I'm honing my skills with Kotlin.
-</p>
-<!--
-<img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360">
--->
-<h3 align="center"> You can find me here 🔎</h3> 
-<p align="center"> <samp>
-    <a href="https://www.linkedin.com/in/assuncao-felipe/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-    </a>
-    <a href="https://www.instagram.com/diceloss/" target="_blank">
-        <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-    </a>
-</p>
+  
+<!-- SOBRE MIM -->
+<p align="center"> I am a student of Software Engineering at the Federal University of Amazonas in Brazil, where I am developing as a Junior Researcher in the area of Data Science. I am currently improving my skills as a Data Scientist to act as an excellent professional and contributor in the DS community </p>
+
+<!-- BANNER --> 
+<!-- <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360"> -->
+
+<!-- ONDE ME ENCONTRAR -->
+<h3 align="center"> You can find me here 🔎</h3>   
+<h4 align="center"> <samp>
+<a href="https://www.linkedin.com/in/assuncao-felipe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+<!-- <a href="https://www.instagram.com/diceloss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30"></a> -->
+
 
 <h3 align="center"> Technologies: </h3>  
 <p align="center">
@@ -23,8 +21,11 @@
   <img src="https://img.shields.io/badge/Java-E4405F?style=flat-square&logo=Java&logoColor=white" height="30"/></a> 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="30"/>
-  
- <!-- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="30"/></a>
+</p>
+
+ 
+ <!--  OUTRAS TECNOLOGIAS
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="30"/></a>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="30"/> -->
 </p>
