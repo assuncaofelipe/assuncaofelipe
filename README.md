@@ -47,7 +47,7 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
   <a href="https://www.instagram.com/diceloss/" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30">
   </a>
-  <a href="felippevassuncao@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  <a href="mailto:felippevassuncao@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.instagram.com/diceloss/" height="30"/>
     </a>
 </p>
