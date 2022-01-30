@@ -28,8 +28,8 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" height="25"/> -->
+<!--  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" height="25"/> -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/></a> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" height="25"/> 
 </p>
