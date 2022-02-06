@@ -5,7 +5,7 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 </p> -->
   
 - Junior Java Web & Kotlin App Developer (Android)
-- Junior Researcher in Data Sciences at Samsung UFAM Project for Education and Research - SUPER
+<!-- Junior Researcher in Data Sciences at Samsung UFAM Project for Education and Research - SUPER -->
 - Software Engineering Student at the Federal University of Amazonas
 </br>
   
