@@ -17,23 +17,29 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 
 ## 👨‍💻 Tech Stack
 
-<p align="center">
+<section align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="25"/></a> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="25"/></a>
   <img src="https://img.shields.io/badge/Java-E4405F?style=flat-square&logo=Java&logoColor=white" height="25"/></a> 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" height="25"/>
+</section>
+
+<section align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25"/>
+<!-- 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" height="25"/>
+-->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" height="25"/> 
+</section>
+
+<section align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25"/>
-<!--  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/></a> 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" height="25"/> 
-</p>
-
+</section>
+  
+  
 <!--
 <p align="center">
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -45,7 +51,7 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 <!-- <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360"> -->
 
 ## 🙋‍♂️ Contact me   
-<p align="center">
+<section align="center">
   <a href="https://www.linkedin.com/in/assuncao-felipe/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
   </a>
@@ -54,5 +60,5 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
   </a>
   <a href="mailto:felippevassuncao@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.instagram.com/diceloss/" height="25"/>
-    </a>
-</p>
+  </a>
+</section>
