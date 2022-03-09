@@ -4,7 +4,7 @@
 I am a student of Software Engineering at the Federal University of Amazonas in Brazil, where I am a Junior Fellow in Research Initiation in the area of Data Science and Machine Learning. As an academic and future technology professional, I seek to improve my skills as a data scientist to contribute to DS communities. I'm passionate about technology also develop native Android apps using Kotlin
 </p> -->
   
-- Junior Java Web & Kotlin App Developer (Android)
+- Java Web Student | SpringBoot
 <!-- Junior Researcher in Data Sciences at Samsung UFAM Project for Education and Research - SUPER -->
 - Software Engineering Student at the Federal University of Amazonas
 </br>
