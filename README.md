@@ -26,9 +26,9 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 </section>
 
 <section align="center">
+    <img src="https://img.shields.io/badge/C/C++-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="25"/>
     <!--     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" height="25"/>     -->    
     <!--     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25"/>   -->
     <!--     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>     -->
