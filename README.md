@@ -40,7 +40,7 @@
 ## 🙋‍♂️ Contact me   
 <section>
     <a href="https://www.linkedin.com/in/assuncao-felipe/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
     <!-- <a href="https://discord.com/users/650143772969205804" target="_blank">
     <img src="https://img.shields.io/badge/Felipe%233397-5865F2?style=for-the-badge&logo=Discord&logoColor=white"  target="_blank"></a> -->
 </section>
