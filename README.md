@@ -1,15 +1,14 @@
-<h1 align="left"> <samp> Hi, I'm Felipe 🤠 </h1> 
+<h1 align="left"> <samp> Olá, bem vindo ao GitHub 🤠 </h1> 
   
-<!-- <p align="center"> 
-I am a student of Software Engineering at the Federal University of Amazonas in Brazil, where I am a Junior Fellow in Research Initiation in the area of Data Science and Machine Learning. As an academic and future technology professional, I seek to improve my skills as a data scientist to contribute to DS communities. I'm passionate about technology also develop native Android apps using Kotlin
-</p> -->
-  
+- Estudante de Engenharia de Software na Universidade Federal do Amazonas
+- Atua como estagiário no Instituto de Pesquisas Eldorado - Manaus
+- Programa para Web, Mobile e Machine Learning
+- Hobbies: Acampar, Viajar, Esportes, Games, Fazendas
 
 <div id="main">
-    <img src="https://github-readme-stats.vercel.app/api?username=assuncaofelipe&hide=false,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
     <!-- BANNER --> 
-    <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="360"> 
+    <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="470em" > 
 </div>
 
 ## 👨‍💻 Tech Stack
@@ -21,7 +20,7 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
     <img src="https://img.shields.io/badge/Node-84BD48?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Python-367EB2?style=flat-square&logo=Python&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/C/C++-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/C/C++-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25" width="65"/>
 </section>
 
 <!-- <section>
@@ -42,4 +41,6 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 <section>
     <a href="https://www.linkedin.com/in/assuncao-felipe/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+    <!-- <a href="https://discord.com/users/650143772969205804" target="_blank">
+    <img src="https://img.shields.io/badge/Felipe%233397-5865F2?style=for-the-badge&logo=Discord&logoColor=white"  target="_blank"></a> -->
 </section>
