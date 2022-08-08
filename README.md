@@ -8,7 +8,7 @@
 <div id="main">
     <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
     <!-- BANNER --> 
-    <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="470em" > 
+    <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="400em" > 
 </div>
 
 ## 👨‍💻 Tech Stack
