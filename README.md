@@ -8,7 +8,6 @@ I am a student of Software Engineering at the Federal University of Amazonas in 
 <div id="main">
     <img src="https://github-readme-stats.vercel.app/api?username=assuncaofelipe&hide=false,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    
     <!-- BANNER --> 
     <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="360"> 
 </div>
