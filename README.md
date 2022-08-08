@@ -4,13 +4,13 @@
 I am a student of Software Engineering at the Federal University of Amazonas in Brazil, where I am a Junior Fellow in Research Initiation in the area of Data Science and Machine Learning. As an academic and future technology professional, I seek to improve my skills as a data scientist to contribute to DS communities. I'm passionate about technology also develop native Android apps using Kotlin
 </p> -->
   
-  
-<!-- BANNER --> 
-<img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa2.png" width="360">
 
 <div id="main">
     <img src="https://github-readme-stats.vercel.app/api?username=assuncaofelipe&hide=false,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    
+    <!-- BANNER --> 
+    <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="360"> 
 </div>
 
 ## 👨‍💻 Tech Stack
