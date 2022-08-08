@@ -4,20 +4,23 @@
 I am a student of Software Engineering at the Federal University of Amazonas in Brazil, where I am a Junior Fellow in Research Initiation in the area of Data Science and Machine Learning. As an academic and future technology professional, I seek to improve my skills as a data scientist to contribute to DS communities. I'm passionate about technology also develop native Android apps using Kotlin
 </p> -->
   
-- I'm a Full Stack Developer
-
+<br>
+I am Full Stack Developer
 </br>
 
+<!-- 
 <div id="main">
     <img src="https://github-readme-stats.vercel.app/api?username=assuncaofelipe&hide=false,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
+-->
+
 ## 👨‍💻 Tech Stack
 
 <section>
     <img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"/>
+    <!-- <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"/> -->
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Node-84BD48?style=flat-square&logo=javascript&logoColor=white" height="25"/>
 </section>
