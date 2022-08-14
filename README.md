@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/C/C++-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25" width="65"/>-->
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Node-84BD48?style=flat-square&logo=javascript&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Python-367EB2?style=flat-square&logo=Python&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Node-00BC22?style=flat-square&logo=javascript&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Python-FFD646?style=flat-square&logo=Python&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Android-019934?style=flat-square&logo=Android&logoColor=white" height="25"/>
 </section>
 
 <!-- <section>
