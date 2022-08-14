@@ -1,6 +1,6 @@
 <h1 align="left"> <samp> Olá, bem vindo ao GitHub 🤠 </h1> 
   
-- Estudante de Engenharia de Software na Universidade Federal do Amazonas
+- Estuda Engenharia de Software na Universidade Federal do Amazonas
 - Atua como estagiário no Instituto de Pesquisas Eldorado - Manaus
 - Programa para Web, Mobile e Machine Learning
 - Hobbies: Acampar, Viajar, Esportes, Games, Fazendas
