@@ -1,9 +1,8 @@
 <h1 align="left"> <samp> Olá, bem vindo ao GitHub 🤠 </h1> 
   
 - Estuda Engenharia de Software na Universidade Federal do Amazonas
-- Atua como estagiário no Instituto de Pesquisas Eldorado - Manaus
-- Programa para Web, Mobile e Machine Learning
-- Hobbies: Acampar, Viajar, Esportes, Games, Fazendas
+- Full Stack Intern no Instituto de Pesquisas Eldorado - Manaus
+- Desenvolve para Web e Mobile with Kotlin
 
 <div id="main">
     <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
