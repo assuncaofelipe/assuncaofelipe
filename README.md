@@ -1,7 +1,7 @@
-<h1 align="left"> <samp> Olá, bem vindo ao GitHub 🤠 </h1> 
+<h1 align="left"> <samp> Hello, welcome to my GitHub 🤠 </h1> 
   
 - Study Software Engineering at the Federal University of Amazonas
-- Full Stack Intern no Instituto de Pesquisas Eldorado - Manaus
+- Full Stack Intern at the Eldorado Research Institute - Manaus, Brazil
 
 <div id="main">
     <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
