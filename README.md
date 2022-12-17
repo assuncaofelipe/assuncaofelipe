@@ -1,8 +1,7 @@
 <h1 align="left"> <samp> Olá, bem vindo ao GitHub 🤠 </h1> 
   
-- Estuda Engenharia de Software na Universidade Federal do Amazonas
+- Study Software Engineering at the Federal University of Amazonas
 - Full Stack Intern no Instituto de Pesquisas Eldorado - Manaus
-- Desenvolve para Web e Mobile with Kotlin
 
 <div id="main">
     <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
@@ -18,7 +17,7 @@
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Node-00BC22?style=flat-square&logo=javascript&logoColor=white" height="25"/>
+    <!--<img src="https://img.shields.io/badge/Node-00BC22?style=flat-square&logo=javascript&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Python-FFD646?style=flat-square&logo=Python&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>-->
 </section>
