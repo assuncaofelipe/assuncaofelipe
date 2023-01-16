@@ -4,10 +4,10 @@
 - Full Stack Intern at the Eldorado Research Institute - Manaus, Brazil
 
 <div id="main">
-    <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">
+    <!-- <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">--> 
     <!-- BANNER --> 
     <img align='right' src="https://raw.githubusercontent.com/assuncaofelipe/assuncaofelipe/main/images/capas/capa3.png" width="400em" > 
-</div>
+</div> 
 
 ## 👨‍💻 Tech Stack
 
@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"/>
     <!--<img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Node-00BC22?style=flat-square&logo=javascript&logoColor=white" height="25"/>-->
-    <!--<img src="https://img.shields.io/badge/Python-FFD646?style=flat-square&logo=Python&logoColor=white" height="25"/>-->
-    <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>-->
 </section>
 
 <!-- <section>
@@ -35,6 +33,11 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
     <!--<img src="https://img.shields.io/badge/-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25" width="45"/>-->
+</section>
+
+<section>
+    <img src="https://img.shields.io/badge/Python-1A6600?style=flat-square&logo=Python&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>
 </section>
 
 ## 🙋‍♂️ Contact me   
