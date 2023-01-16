@@ -28,10 +28,10 @@
 <section>
     <!-- <img src="https://img.shields.io/badge/Mysql-E56722?style=flat-square&logo=MySql&logoColor=white" height="25"/> -->
     <img src="https://img.shields.io/badge/Postgresql-306893?style=flat-square&logo=Postgresql&logoColor=white" height="25"/>
-    <!-- <img src="https://img.shields.io/badge/Bootstrap-816FF9?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/> -->
     <img src="https://img.shields.io/badge/Material Design-757575?style=flat-square&logo=Material-Design&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Bootstrap-816FF9?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/>
     <!--<img src="https://img.shields.io/badge/-DA1C1F?style=flat-square&logo=C&logoColor=white" height="25" width="45"/>-->
 </section>
 
