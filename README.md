@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=flat-square&logo=typescript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>
+    <!--<img src="https://img.shields.io/badge/ReactJS-1572B6?style=flat-square&logo=React&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Node-00BC22?style=flat-square&logo=javascript&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Python-FFD646?style=flat-square&logo=Python&logoColor=white" height="25"/>-->
     <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>-->
@@ -30,7 +30,7 @@
 <section>
     <!-- <img src="https://img.shields.io/badge/Mysql-E56722?style=flat-square&logo=MySql&logoColor=white" height="25"/> -->
     <img src="https://img.shields.io/badge/Postgresql-306893?style=flat-square&logo=Postgresql&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Bootstrap-816FF9?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/>
+    <!-- <img src="https://img.shields.io/badge/Bootstrap-816FF9?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/> -->
     <img src="https://img.shields.io/badge/Material Design-757575?style=flat-square&logo=Material-Design&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
