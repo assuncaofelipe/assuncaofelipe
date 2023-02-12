@@ -1,4 +1,4 @@
-<h1 align="left"> <samp> Hello, welcome to my GitHub 🤠 </h1> 
+<h1 align="left"> <samp>Welcome to my repository 🤠 </h1> 
   
 - Study Software Engineering at the Federal University of Amazonas
 - Full Stack Intern at the Eldorado Research Institute - Manaus, Brazil
