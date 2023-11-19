@@ -1,7 +1,7 @@
 <h1 align="left"> <samp>Welcome to my repository 🤠 </h1> 
   
-- Study Software Engineering at the Federal University of Amazonas
-- Full Stack Intern at the Eldorado Research Institute - Manaus, Brazil
+- Bachelor in Software Engineering at the Federal University of Amazonas - Brazil
+- Full Stack Developer at the Eldorado Research Institute - Manaus, Brazil
 
 <div id="main">
     <!-- <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">--> 
