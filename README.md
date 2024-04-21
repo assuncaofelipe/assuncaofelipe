@@ -2,6 +2,7 @@
   
 - Bachelor in Software Engineering from the Federal University of Amazonas - Brazil
 - Full Stack Web Developer
+- Native Android Mobile Developer
 
 <div id="main">
     <!-- <img width="400em" src= "https://github-readme-stats.vercel.app/api?username=assuncaofelipe&show_icons=true,contribs&count_private=true" alt ="oi">--> 
